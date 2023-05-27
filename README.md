@@ -1,7 +1,7 @@
 # Multiclass-Image-Classification
 
 ## Aim
-To build a 2-layer Softmax Neural Network and a fully connected CNN (Convolution Neural Network) for multiclass image classification, compare their performances on Fashion-MNIST dataset.
+To build a 2-layer Softmax Neural Network and a fully connected CNN (Convolution Neural Network) for multiclass image classification, and compare their performances on Fashion-MNIST dataset.
 
 ## Dataset
 
