@@ -18,6 +18,19 @@ Here's an example of how the data looks (each class takes three-rows):
 
 <img width="794" alt="Screenshot 2023-05-26 at 9 46 27 PM" src="https://github.com/kt-krutarthtrivedi/Multiclass-Image-Classification/assets/134632027/1007b805-0058-4d15-b3af-2c5eb01555d7">
 
+&nbsp;
+
+![download](https://github.com/kt-krutarthtrivedi/Multiclass-Image-Classification/assets/134632027/4d932471-5671-4f3b-a391-4bed6dee277d)
+
+
+&nbsp;
+&nbsp;
+
 - Using a fully-connected CNN, we could improve the accuracy to 91.86%
 
 <img width="898" alt="Screenshot 2023-05-26 at 9 47 04 PM" src="https://github.com/kt-krutarthtrivedi/Multiclass-Image-Classification/assets/134632027/5462c350-bd81-4b5d-b5be-a02788c15a7a">
+
+&nbsp;
+
+![CNN](https://github.com/kt-krutarthtrivedi/Multiclass-Image-Classification/assets/134632027/43db7571-4ff9-4286-9c21-52bdf2911d65)
+
